@@ -1,4 +1,4 @@
-# dreuter-week-5 source code
+# Game of Life source code
 
 [![UML](https://raw.githubusercontent.com/rojter-tech/game-of-life/master/UML/rOjterGameOfLife-UML.png)]
 
