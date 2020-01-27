@@ -1,6 +1,6 @@
 # dreuter-week-5 source code
 
-[![UML](https://gits-15.sys.kth.se/dreuter/dreuter-week-5/blob/master/UML/rOjterGameOfLife-UML.png)]
+[![UML](https://raw.githubusercontent.com/rojter-tech/game-of-life/master/UML/rOjterGameOfLife-UML.png)]
 
 ## Alpha-2 release
 [![rOjterGameOfLifeDemo1](https://www.youtube.com/upload_thumbnail?v=Y_90kVgTPWI&t=hqdefault&ts=1538684672363)](https://youtu.be/Y_90kVgTPWI)
